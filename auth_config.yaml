@@ -1,0 +1,16 @@
+cookie:
+  expiry_days: 0
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    test1:
+      email: test1@test.com
+      failed_login_attempts: 0
+      first_name: test
+      last_name: test
+      logged_in: false
+      password: $2b$12$gH/lsb3F0.vIUMmUPgbQ8eQjzZ1T6XT6m8L6tocROuVN0eHChi2.i
+      password_hint: numbers
+      roles: null
+pre-authorized: []
